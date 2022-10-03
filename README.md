@@ -22,7 +22,8 @@ Folder name: Cell_morphology_based_model_and_global_model
 Folder name: Cell_morphology_based_model_and_global_model     
 · Predicting MoA based on the integration of molecular data and image data using global model: CNN_MLP_Global.ipynb    
 
-Citation
+## Citation
 Please cite:
-Combining molecular and cell painting image data for mechanism of action prediction          
-Guangyan Tian, Philip J Harrison, Akshai P Sreenivasan, Jordi Carreras Puigvert, Ola Spjuth.
+> Combining molecular and cell painting image data for mechanism of action prediction          
+> Guangyan Tian, Philip J Harrison, Akshai P Sreenivasan, Jordi Carreras Puigvert, Ola Spjuth.
+> Status: Submitted
