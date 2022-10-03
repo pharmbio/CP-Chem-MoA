@@ -13,11 +13,11 @@ We present a method to predict the clusters that new chemicals belong to based o
 · Predicting MoA based on molecular data using long short-term memory (LSTM) with data augmentation: LSTM_aug.ipynb   
 · Predicting MoA based on molecular data using traditional machine learning algorithms: traditional_machine_learning_algorithms.ipynb   
 
-<Stage 2: Predicting MoA using cell morphology based model based on image data>
-· Cell_morphology_based_model_and_global_model/CNN_MLP_Global.ipynb  
+<Stage 2: Predicting MoA using cell morphology based model based on image data>, folder name: Cell_morphology_based_model_and_global_model 
+· Predicting MoA based on image data using state-of-the-art CNN: CNN_MLP_Global.ipynb  
 
-<Stage 3: Predicting MoA using global model based on the integration of molecular data and image data>
-· Cell_morphology_based_model_and_global_model/CNN_MLP_Global.ipynb  
+<Stage 3: Predicting MoA using global model based on the integration of molecular data and image data>, folder name: Cell_morphology_based_model_and_global_model
+· Predicting MoA based on the integration of molecular data and image data using global model: CNN_MLP_Global.ipynb    
 
 Citation
 Please cite:
