@@ -3,7 +3,7 @@
 In this work we developed a model capable of predicting mechanism of action (MoA) using both structural information from chemicals and morphological information from cell paining images. Our work contains three stages. We run the codes on Google Colab.  
 
 ## Stage 1: Predicting MoA using compound structure based model based on molecular data
-Folder name: Compound_structure_based_models     
+Folder name: [Compound_structure_based_models](Compound_structure_based_models)
   * The installation of RDkit: RDkit.ipynb
   * Predicting MoA based on molecular data using multi-layer perceptron (MLP): MLP.ipynb   
   * Predicting MoA based on molecular data using graph convolutional network (GCN): GCN.ipynb   
