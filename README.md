@@ -15,11 +15,11 @@ Folder name: Compound_structure_based_models
 · Predicting MoA based on molecular data using traditional machine learning algorithms: traditional_machine_learning_algorithms.ipynb   
 
 <Stage 2: Predicting MoA using cell morphology based model based on image data>   
-Folder name: Cell_morphology_based_model_and_global_model 
+Folder name: Cell_morphology_based_model_and_global_model    
 · Predicting MoA based on image data using state-of-the-art CNN: CNN_MLP_Global.ipynb  
 
 <Stage 3: Predicting MoA using global model based on the integration of molecular data and image data>  
-Folder name: Cell_morphology_based_model_and_global_model
+Folder name: Cell_morphology_based_model_and_global_model     
 · Predicting MoA based on the integration of molecular data and image data using global model: CNN_MLP_Global.ipynb    
 
 Citation
