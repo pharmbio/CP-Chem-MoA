@@ -1,24 +1,46 @@
 # Combining molecular and cell painting image data for mechanism of action prediction 
 
-In this work we developed a model capable of predicting mechanism of action (MoA) using both structural information from chemicals and morphological information from cell paining images. Our work contains three stages. We run the codes on Google Colab.  
+In this work we developed a model capable of predicting mechanism of action (MoA) using both structural information from chemicals and morphological information from cell paining images.
+
+
+---
+
+### Setting up the environment
+To create and activate the environment. <br>
+```bash
+conda env create -f environment.yaml
+conda activate chem-moa
+```
+To export the conda environment to jupyter notebook. <br>
+```bash
+python -m ipykernel install --user --name=chem-moa
+```
+<br>
+
+---
+
+Our work contains three stages.
+
 
 ## Stage 1: Predicting MoA using compound structure based model based on molecular data
 Folder name: [Compound_structure_based_models](Compound_structure_based_models)
-  * The installation of RDkit: RDkit.ipynb
-  * Predicting MoA based on molecular data using multi-layer perceptron (MLP): MLP.ipynb   
-  * Predicting MoA based on molecular data using graph convolutional network (GCN): GCN.ipynb   
-  * Predicting MoA based on molecular data using convolutional neural network (CNN): CNN.ipynb   
-  * Predicting MoA based on molecular data using long short-term memory (LSTM) without data augmentation: LSTM.ipynb   
-  * Predicting MoA based on molecular data using long short-term memory (LSTM) with data augmentation: LSTM_aug.ipynb   
-  * Predicting MoA based on molecular data using traditional machine learning algorithms: traditional_machine_learning_algorithms.ipynb   
+The models explored are given below.
+  * [Multi-Layer Perceptron (MLP)](Compound_structure_based_models/MLP.ipynb)
+  * [Graph Convolutional Network (GCN)](Compound_structure_based_models/GCN.ipynb)
+  * [Convolutional Neural Network (CNN)](Compound_structure_based_models/CNN.ipynb)
+  * [Long Short-Term Memory (LSTM) without data augmentation]
+  * [LSTM with data augmentation](Compound_structure_based_models/LSTM_aug.ipynb)
+  * [traditional machine learning algorithms](Compound_structure_based_models/traditional_machine_learning_algorithms.ipynb)
+    * List out the traditional machine learning algorithms you have done
 
 # Stage 2: Predicting MoA using cell morphology based model based on image data 
-Folder name: Cell_morphology_based_model_and_global_model    
-* Predicting MoA based on image data using state-of-the-art CNN: CNN_MLP_Global.ipynb  
+# Add different file and a folder for it
+Folder name: [Image_based_model](Image_based_model)
+* [Efficient net](Image_based_model/CNN_MLP_Global.ipynb)
 
 # Stage 3: Predicting MoA using global model based on the integration of molecular data and image data  
-Folder name: Cell_morphology_based_model_and_global_model     
-* Predicting MoA based on the integration of molecular data and image data using global model: CNN_MLP_Global.ipynb    
+Folder name: [Cell_morphology_based_model_and_global_model](Cell_morphology_based_model_and_global_model)
+* [global model (CNN + MLP model)](Cell_morphology_based_model_and_global_model/CNN_MLP_Global.ipynb)
 
 ## Citation
 Please cite:
