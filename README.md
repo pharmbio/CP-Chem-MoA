@@ -15,7 +15,7 @@ To export the conda environment to jupyter notebook. <br>
 ```bash
 python -m ipykernel install --user --name=chem-moa
 ```
-To install RDkit. <br>
+To install RDkit (For more information, please refer to the RDKit Documentation). <br>
 ```bash
 $ conda create -c conda-forge -n my-rdkit-env rdkit
 $ conda activate my-rdkit-env
