@@ -40,7 +40,7 @@ Folder name: [Image_based_model](Image_based_model)
 
 # Stage 3: Predicting MoA using global model based on the integration of molecular data and image data  
 Folder name: [Cell_morphology_based_model_and_global_model](Cell_morphology_based_model_and_global_model)
-* [global model (CNN + MLP model)](Cell_morphology_based_model_and_global_model/CNN_MLP_Global.ipynb)
+* [Global model (CNN + MLP model)](Cell_morphology_based_model_and_global_model/CNN_MLP_Global.ipynb)
 
 ## Citation
 Please cite:
