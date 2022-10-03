@@ -31,7 +31,7 @@ The models explored are given below.
   * [Long Short-Term Memory (LSTM) without data augmentation](Compound_structure_based_models/LSTM.ipynb)
   * [LSTM with data augmentation](Compound_structure_based_models/LSTM_aug.ipynb)
   * [Traditional machine learning algorithms](Compound_structure_based_models/traditional_machine_learning_algorithms.ipynb)
-    * List out the traditional machine learning algorithms you have done
+    * We explored random forests, light gradient boosting machines, cat boost, k-nearest neighbors classifiers, logistic regression, bagging, stacking, voting, and adaboost.        
 
 # Stage 2: Predicting MoA using cell morphology based model based on image data 
 # Add different file and a folder for it
