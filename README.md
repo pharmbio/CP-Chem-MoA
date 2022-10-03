@@ -30,7 +30,7 @@ The models explored are given below.
   * [Convolutional Neural Network (CNN)](Compound_structure_based_models/CNN.ipynb)
   * [Long Short-Term Memory (LSTM) without data augmentation](Compound_structure_based_models/LSTM.ipynb)
   * [LSTM with data augmentation](Compound_structure_based_models/LSTM_aug.ipynb)
-  * [traditional machine learning algorithms](Compound_structure_based_models/traditional_machine_learning_algorithms.ipynb)
+  * [Traditional machine learning algorithms](Compound_structure_based_models/traditional_machine_learning_algorithms.ipynb)
     * List out the traditional machine learning algorithms you have done
 
 # Stage 2: Predicting MoA using cell morphology based model based on image data 
