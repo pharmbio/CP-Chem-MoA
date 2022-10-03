@@ -28,7 +28,7 @@ The models explored are given below.
   * [Multi-Layer Perceptron (MLP)](Compound_structure_based_models/MLP.ipynb)
   * [Graph Convolutional Network (GCN)](Compound_structure_based_models/GCN.ipynb)
   * [Convolutional Neural Network (CNN)](Compound_structure_based_models/CNN.ipynb)
-  * [Long Short-Term Memory (LSTM) without data augmentation]
+  * [Long Short-Term Memory (LSTM) without data augmentation](Compound_structure_based_models/LSTM.ipynb)
   * [LSTM with data augmentation](Compound_structure_based_models/LSTM_aug.ipynb)
   * [traditional machine learning algorithms](Compound_structure_based_models/traditional_machine_learning_algorithms.ipynb)
     * List out the traditional machine learning algorithms you have done
