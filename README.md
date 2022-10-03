@@ -3,7 +3,7 @@ We present a method to predict the clusters that new chemicals belong to based o
 
 <Stage 1: Predicting MoA using compound structure based model based on molecular data>
 · The installation of RDkit
-  
+!get   
 
 
 
