@@ -23,7 +23,7 @@ Our work contains three stages.
 
 
 ## Stage 1: Predicting MoA using compound structure based model based on molecular data
-Folder name: [Compound_structure_based_models](Compound_structure_based_models)
+Folder name: [Compound_structure_based_models](Compound_structure_based_models)  
 The models explored are given below.
   * [Multi-Layer Perceptron (MLP)](Compound_structure_based_models/MLP.ipynb)
   * [Graph Convolutional Network (GCN)](Compound_structure_based_models/GCN.ipynb)
