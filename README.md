@@ -1,4 +1,4 @@
-Combining molecular and cell painting image data for mechanism of action prediction 
+Combining molecular and cell painting image data for mechanism of action prediction   
 We present a method to predict the clusters that new chemicals belong to based on network topology. Our work contains three stages.   
 
 <Stage 1: Predicting MoA using compound structure based model based on molecular data>  
