@@ -42,7 +42,7 @@ The models explored are given below.
 # Stage 2: Predicting MoA using cell morphology based model based on image data 
 # Add different file and a folder for it
 Folder name: [Image_based_model](Image_based_model)
-* [Efficient net](Image_based_model/CNN_MLP_Global.ipynb)
+* [Efficient net](Image_based_model/Efficient net.ipynb)
 
 # Stage 3: Predicting MoA using global model based on the integration of molecular data and image data  
 Folder name: [Cell_morphology_based_model_and_global_model](Cell_morphology_based_model_and_global_model)
