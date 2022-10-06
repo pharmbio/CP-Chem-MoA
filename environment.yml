@@ -1,4 +1,4 @@
-name: chem-moa2
+name: chem-moa
 channels:
   - rdkit
   - anaconda
