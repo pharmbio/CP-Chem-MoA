@@ -226,7 +226,6 @@ dependencies:
     - tensorflow-io-gcs-filesystem==0.27.0
     - termcolor==2.0.1
     - tifffile==2021.11.2
-    - transformers==4.23.0.dev0
     - typeguard==2.13.3
     - urllib3==1.26.12
     - werkzeug==2.2.2
