@@ -8,17 +8,12 @@ In this work we developed a model capable of predicting mechanism of action (MoA
 ### Setting up the environment
 To create and activate the environment. <br>
 ```bash
-conda env create -f environment.yaml
+conda env create -f environment.yml
 conda activate chem-moa
 ```
 To export the conda environment to jupyter notebook. <br>
 ```bash
 python -m ipykernel install --user --name=chem-moa
-```
-To install RDkit (For more information, please refer to the RDKit Documentation). <br>
-```bash
-$ conda create -c conda-forge -n my-rdkit-env rdkit
-$ conda activate my-rdkit-env
 ```
 
 <br>
