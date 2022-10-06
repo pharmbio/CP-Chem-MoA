@@ -35,7 +35,6 @@ The models explored are given below.
     * We explored random forests, light gradient boosting machines, cat boost, k-nearest neighbors classifiers, logistic regression, bagging, stacking, voting, and adaboost.        
 
 ### Stage 2: Predicting MoA using cell morphology based model based on image data 
-### Add different file and a folder for it
 Folder name: [Image_based_model](Image_based_model)
 * [Efficient net](Image_based_model/Efficient_net.ipynb)
 
