@@ -42,6 +42,8 @@ Folder name: [Image_based_model](Image_based_model)
 Folder name: [Cell_morphology_based_model_and_global_model](Cell_morphology_based_model_and_global_model)
 * [Global model (CNN + MLP model)](Cell_morphology_based_model_and_global_model/CNN_MLP_Global.ipynb)
 
+---
+
 ### Citation
 Please cite:
 > Combining molecular and cell painting image data for mechanism of action prediction          
