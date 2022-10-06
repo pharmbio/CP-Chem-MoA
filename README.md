@@ -10,6 +10,7 @@ To create and activate the environment. <br>
 ```bash
 conda env create -f environment.yml
 conda activate chem-moa
+pip install -q git+https://github.com/huggingface/transformers.git
 ```
 To export the conda environment to jupyter notebook. <br>
 ```bash
