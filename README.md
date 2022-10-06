@@ -20,10 +20,10 @@ python -m ipykernel install --user --name=chem-moa
 
 ---
 
-Our work contains three stages.
+# Our work contains three stages.
 
 
-## Stage 1: Predicting MoA using compound structure based model based on molecular data
+### Stage 1: Predicting MoA using compound structure based model based on molecular data
 Folder name: [Compound_structure_based_models](Compound_structure_based_models)  
 The models explored are given below.
   * [Multi-Layer Perceptron (MLP)](Compound_structure_based_models/MLP.ipynb)
@@ -34,16 +34,16 @@ The models explored are given below.
   * [Traditional machine learning algorithms](Compound_structure_based_models/traditional_machine_learning_algorithms.ipynb)
     * We explored random forests, light gradient boosting machines, cat boost, k-nearest neighbors classifiers, logistic regression, bagging, stacking, voting, and adaboost.        
 
-# Stage 2: Predicting MoA using cell morphology based model based on image data 
-# Add different file and a folder for it
+### Stage 2: Predicting MoA using cell morphology based model based on image data 
+### Add different file and a folder for it
 Folder name: [Image_based_model](Image_based_model)
 * [Efficient net](Image_based_model/Efficient_net.ipynb)
 
-# Stage 3: Predicting MoA using global model based on the integration of molecular data and image data  
+### Stage 3: Predicting MoA using global model based on the integration of molecular data and image data  
 Folder name: [Cell_morphology_based_model_and_global_model](Cell_morphology_based_model_and_global_model)
 * [Global model (CNN + MLP model)](Cell_morphology_based_model_and_global_model/CNN_MLP_Global.ipynb)
 
-## Citation
+### Citation
 Please cite:
 > Combining molecular and cell painting image data for mechanism of action prediction          
 > Guangyan Tian, Philip J Harrison, Akshai P Sreenivasan, Jordi Carreras Puigvert, Ola Spjuth.
