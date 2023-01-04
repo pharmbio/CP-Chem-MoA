@@ -1,0 +1,232 @@
+compound_no,compound_name,compound_id,moa,SMILES
+1,cyclopiazonic-acid,CBK006628,ATPase inhibitor,OC([C@](N4C(C)5C)([H])[C@]1([H])[C@@]5([H])CC3=C2C1=CNC2=CC=C3)=C(C(C)=O)C4=O
+2,BHQ,CBK018513,ATPase inhibitor,CC(C)(C)C1=CC(O)=C(C=C1O)C(C)(C)C
+3,lansoprazole,CBK041779,ATPase inhibitor,Cc1c(OCC(F)(F)F)ccnc1CS(=O)c1nc2ccccc2[nH]1
+4,digitoxigenin,CBK200550,ATPase inhibitor,C[C@]12CC[C@H]3[C@@H](CC[C@@H]4C[C@@H](O)CC[C@]34C)[C@@]1(O)CC[C@@H]2C1=CC(=O)OC1
+5,digoxin,CBK200551,ATPase inhibitor,C[C@H]1O[C@H](C[C@H](O)[C@@H]1O)O[C@H]1[C@@H](O)C[C@H](O[C@H]2[C@@H](O)C[C@H](O[C@H]3CC[C@@]4(C)[C@H](CCC5C4C[C@@H](O)[C@]4(C)[C@H](CC[C@]54O)C4=CC(=O)OC4)C3)O[C@@H]2C)O[C@@H]1C
+6,omeprazole,CBK200716,ATPase inhibitor,COc1ccc2nc([nH]c2c1)S(=O)Cc1ncc(C)c(OC)c1C
+7,tenatoprazole,CBK201011,ATPase inhibitor,COc1ccc2[nH]c(nc2n1)S(=O)Cc1ncc(C)c(OC)c1C
+8,thonzonium,CBK201093,ATPase inhibitor,CCCCCCCCCCCCCCCC[N+](C)(C)CCN(Cc1ccc(OC)cc1)c1ncccn1
+9,BTB06584,CBK228145,ATPase inhibitor,[O-][N+](=O)c1ccc(cc1OC(=O)c1ccc(Cl)cc1)S(=O)(=O)c1ccccc1
+10,blebbistatin-(-),CBK290052,ATPase inhibitor,Cc1ccc2N=C3N(CC[C@@]3(O)C(=O)c2c1)c1ccccc1
+11,SCH-28080,CBK290334,ATPase inhibitor,CC1=C(CC#N)N2C=CC=C(OCC3=CC=CC=C3)C2=N1
+12,esomeprazole,CBK291084,ATPase inhibitor,COc1ccc2[nH]c(nc2c1)[S@@](=O)Cc1ncc(C)c(OC)c1C
+13,NMS-873,CBK303888,ATPase inhibitor,Cc1cc(OCc2nnc(SC3CCCC3)n2-c2cccnc2)ccc1-c1ccc(cc1)S(C)(=O)=O
+14,rostafuroxine,CBK308709,ATPase inhibitor,O[C@]([C@@](CC[C@@]1([H])[C@@]2(CC[C@H](O)C1)C)([H])[C@]2([H])CC3)(CC[C@@]4(C5=COC=C5)O)[C@]34C
+15,istaroxime,CBK308980,ATPase inhibitor,O=C1CC[C@@]2([H])[C@]3([H])CC([C@@]4([H])C/C(CC[C@]4(C)[C@@]3([H])CC[C@@]21C)=N/OCCN)=O
+16,pantoprazole,CBK309086,ATPase inhibitor,O=S(C1=NC2=CC=C(OC(F)F)C=C2[N-]1)CC3=NC=CC(OC)=C3OC
+17,DBeQ,CBK309507,ATPase inhibitor,C(Nc1nc(NCc2ccccc2)c2ccccc2n1)c1ccccc1
+18,omeprazole-sulfide,CBK309653,ATPase inhibitor,COc1ccc2nc(SCc3ncc(C)c(OC)c3C)[nH]c2c1
+19,barasertib-HQPA,CBK277955,Aurora kinase inhibitor,CCN(CCO)CCCOc1ccc2c(Nc3cc(CC(=O)Nc4cccc(F)c4)[nH]n3)ncnc2c1
+20,alisertib,CBK277972,Aurora kinase inhibitor,COc1cc(Nc2ncc3CN=C(c4cc(Cl)ccc4-c3n2)c2c(F)cccc2OC)ccc1C(O)=O
+21,TAK-901,CBK278064,Aurora kinase inhibitor,CCS(=O)(=O)c1cccc(c1)-c1cc(C(=O)NC2CCN(C)CC2)c(C)c2[nH]c3ncc(C)cc3c12
+22,CYC116,CBK288259,Aurora kinase inhibitor,Cc1nc(N)sc1-c1ccnc(Nc2ccc(cc2)N2CCOCC2)n1
+23,aurora-a-inhibitor-i,CBK288281,Aurora kinase inhibitor,O=C(NC3=CC=CC=C3Cl)C(C=C2)=CC=C2NC1=C(F)C=NC(NC4=CC=C(CC(N5CCN(CC)CC5)=O)C=C4)=N1
+24,hesperadin,CBK288284,Aurora kinase inhibitor,O=C3/C(C2=CC(NS(CC)(=O)=O)=CC=C2N3)=C(C4=CC=CC=C4)\NC1=CC=C(CN5CCCCC5)C=C1
+25,PHA-680632,CBK288285,Aurora kinase inhibitor,CCc1cccc(CC)c1NC(=O)N1Cc2[nH]nc(NC(=O)c3ccc(cc3)N3CCN(C)CC3)c2C1
+26,SNS-314,CBK288286,Aurora kinase inhibitor,O=C(NC4=CC(Cl)=CC=C4)NC3=NC=C(S3)CCNC1=NC=NC2=C1SC=C2
+27,ZM-447439,CBK288288,Aurora kinase inhibitor,COc1cc2c(Nc3ccc(NC(=O)c4ccccc4)cc3)ncnc2cc1OCCCN1CCOCC1
+28,AMG900,CBK288349,Aurora kinase inhibitor,Cc1csc(c1)-c1nnc(Nc2ccc(Oc3ncccc3-c3ccnc(N)n3)cc2)c2ccccc12
+29,fisetin,CBK290684,Aurora kinase inhibitor,Oc1ccc2c(c1)oc(-c1ccc(O)c(O)c1)c(O)c2=O
+30,GSK1070916,CBK290766,Aurora kinase inhibitor,CCn1cc(c(n1)-c1ccc(NC(=O)N(C)C)cc1)-c1ccnc2[nH]c(cc12)-c1cccc(CN(C)C)c1
+31,PF-03814735,CBK290770,Aurora kinase inhibitor,O=C(CNC(C)=O)N1[C@@H]2C3=C(C=C(NC4=NC(NC5CCC5)=C(C(F)(F)F)C=N4)C=C3)[C@H]1CC2
+32,MK-5108,CBK290772,Aurora kinase inhibitor,OC(=O)[C@@]1(Cc2cccc(Nc3nccs3)n2)CC[C@@H](CC1)Oc1cccc(Cl)c1F
+33,CCT137690,CBK290801,Aurora kinase inhibitor,CN(CC4)CCN4C(C=C3)=CC=C3C2=NC1=C(N5CCN(CC6=NOC(C)=C6)CC5)C(Br)=CN=C1N2
+34,CCT129202,CBK290829,Aurora kinase inhibitor,CN(C)c1ccc(cc1)-c1nc2c(N3CCN(CC(=O)Nc4nccs4)CC3)c(Cl)cnc2[nH]1
+35,MK-8745,CBK293886,Aurora kinase inhibitor,Fc1c(Cl)cccc1C(=O)N1CCN(Cc2cccc(Nc3nccs3)n2)CC1
+36,TC-A-2317,CBK308101,Aurora kinase inhibitor,CC1=CC(NC2=NNC(C)=C2)=NC(NC(C)CCCC(C)(C)O)=C1C#N
+37,barasertib,CBK308652,Aurora kinase inhibitor,O=C(NC1=CC=CC(F)=C1)CC2=CC(NC3=C4C=CC(OCCCN(CC)CCOP(O)(O)=O)=CC4=NC=N3)=NN2
+38,reversine,CBK308864,Aurora kinase inhibitor,C1(NC2=CC=C(N3CCOCC3)C=C2)=NC(NC4CCCCC4)=C5C(NC=N5)=N1
+39,vorinostat,CBK201016,HDAC inhibitor,ONC(=O)CCCCCCC(=O)Nc1ccccc1
+40,scriptaid,CBK261295,HDAC inhibitor,O=C(CCCCCN1C(=O)c2cccc3cccc(c23)C1=O)NO
+41,belinostat,CBK277957,HDAC inhibitor,ONC(=O)\C=C\c1cccc(c1)S(=O)(=O)Nc1ccccc1
+42,tacedinaline,CBK277961,HDAC inhibitor,CC(=O)Nc1ccc(cc1)C(=O)Nc1ccccc1N
+43,panobinostat,CBK277990,HDAC inhibitor,O=C(/C=C/C1=CC=C(CNCCC2=C(NC3=C2C=CC=C3)C)C=C1)NO
+44,mocetinostat,CBK278039,HDAC inhibitor,O=C(C1=CC=C(C=C1)CNC2=NC=CC(C3=CC=CN=C3)=N2)NC4=CC=CC=C4N
+45,AR-42,CBK288302,HDAC inhibitor,CC(C)[C@H](C(=O)Nc1ccc(cc1)C(=O)NO)c1ccccc1
+46,trichostatin-a,CBK289731,HDAC inhibitor,CN(C1=CC=C(C=C1)C([C@@H](/C=C(/C=C/C(NO)=O)C)C)=O)C
+47,SBHA,CBK289737,HDAC inhibitor,O=C(CCCCCCC(NO)=O)NO
+48,phenylbutyrate,CBK289739,HDAC inhibitor,OC(=O)CCCc1ccccc1
+49,M-344,CBK289740,HDAC inhibitor,CN(C)c1ccc(cc1)C(=O)NCCCCCCC(=O)NO
+50,NSC-3852,CBK289756,HDAC inhibitor,O=Nc1ccc(O)c2ncccc12
+51,PCI-24781,CBK290479,HDAC inhibitor,CN(C)Cc1c(oc2ccccc12)C(=O)NCCOc1ccc(cc1)C(=O)NO
+52,dacinostat,CBK290481,HDAC inhibitor,OCCN(CCc1c[nH]c2ccccc12)Cc1ccc(\C=C\C(=O)NO)cc1
+53,droxinostat,CBK290547,HDAC inhibitor,Cc1cc(Cl)ccc1OCCCC(=O)NO
+54,SB-939,CBK290573,HDAC inhibitor,CCCCc1nc2cc(ccc2n1CCN(CC)CC)\C=C\C(=O)NO
+55,sodium-butyrate,CBK290613,HDAC inhibitor,CCCC(O)=O
+56,PCI-34051,CBK290816,HDAC inhibitor,COc1ccc(Cn2ccc3ccc(cc23)C(=O)NO)cc1
+57,romidepsin,CBK290837,HDAC inhibitor,C/C=C(NC([C@@H](CSSCC/C=C/[C@@H](O1)CC2=O)NC([C@@H](C(C)C)N2)=O)=O)/C(N[C@@H](C(C)C)C1=O)=O
+58,ACY-1215,CBK290945,HDAC inhibitor,ONC(=O)CCCCCCNC(=O)c1cnc(nc1)N(c1ccccc1)c1ccccc1
+59,pyroxamide,CBK291020,HDAC inhibitor,O=C(CCCCCCC(NO)=O)NC1=CC=CN=C1
+60,givinostat,CBK291055,HDAC inhibitor,CCN(CC)Cc1ccc2cc(COC(=O)Nc3ccc(cc3)C(=O)NO)ccc2c1
+61,resminostat,CBK303867,HDAC inhibitor,CN(C)Cc1ccc(cc1)S(=O)(=O)n1ccc(c1)\C=C\C(=O)NO
+62,RGFP966,CBK303885,HDAC inhibitor,Nc1cc(F)ccc1NC(=O)\C=C\c1cnn(C\C=C\c2ccccc2)c1
+63,chidamide,CBK303971,HDAC inhibitor,O=C(NC1=CC(F)=CC=C1N)C2=CC=C(CNC(/C=C/C3=CC=CN=C3)=O)C=C2
+64,TC-H-106,CBK308137,HDAC inhibitor,NC1=CC=CC=C1NC(CCCCCC(NC2=CC=C(C)C=C2)=O)=O
+65,TCS-HDAC6-20b,CBK308260,HDAC inhibitor,O=C([C@@H](NC(OC(C)(C)C)=O)CCCCCSC(C(C)C)=O)NC1(CC3C2)CC(C3)CC2C1
+66,LMK-235,CBK308266,HDAC inhibitor,CC1=CC(C(NOCCCCCC(NO)=O)=O)=CC(C)=C1
+67,UF-010,CBK308430,HDAC inhibitor,CCCCNNC(=O)c1ccc(Br)cc1
+68,R306465,CBK308482,HDAC inhibitor,ONC(=O)c1cnc(nc1)N1CCN(CC1)S(=O)(=O)c1ccc2ccccc2c1
+69,MC1568,CBK309064,HDAC inhibitor,O=C(NO)/C=C/C1=CC=C(/C=C/C(C2=CC=CC(F)=C2)=O)N1C
+70,RG2833,CBK309523,HDAC inhibitor,Cc1ccc(cc1)C(=O)NCCCCCC(=O)Nc1ccccc1N
+71,4SC-202,CBK309553,HDAC inhibitor,Cn1cc(cn1)-c1ccc(cc1)S(=O)(=O)n1ccc(\C=C\C(=O)Nc2ccccc2N)c1
+72,guanidine,CBK041487,HSP inhibitor,NC(N)=N
+73,tanespimycin,CBK277934,HSP inhibitor,CO[C@H]1C[C@H](C)CC2=C(NCC=C)C(=O)C=C(NC(=O)\C(C)=C\C=C/[C@H](OC)[C@@H](OC(N)=O)\C(C)=C\[C@H](C)[C@H]1O)C2=O
+74,alvespimycin,CBK277935,HSP inhibitor,CO[C@H]1C[C@H](C)CC2=C(NCCN(C)C)C(=O)C=C(NC(=O)\C(C)=C\C=C/[C@H](OC)[C@@H](OC(N)=O)\C(C)=C\[C@H](C)[C@H]1O)C2=O
+75,BIIB021,CBK277939,HSP inhibitor,ClC1=C2C(N(CC3=NC=C(C)C(OC)=C3C)C=N2)=NC(N)=N1
+76,NVP-AUY922,CBK277973,HSP inhibitor,O=C(C1=NOC(C2=CC(C(C)C)=C(O)C=C2O)=C1C3=CC=C(CN4CCOCC4)C=C3)NCC
+77,geldanamycin,CBK278021,HSP inhibitor,CO[C@H]1C[C@H](C)CC2=C(OC)C(=O)C=C(NC(=O)\C(C)=C\C=C\[C@H](OC)[C@@H](OC(N)=O)\C(C)=C\[C@H](C)[C@H]1O)C2=O
+78,VER-155008,CBK278047,HSP inhibitor,N#Cc1ccc(COC[C@H]2O[C@@H](n3c(NCc4ccc(Cl)c(Cl)c4)nc4c(N)ncnc43)[C@H](O)[C@@H]2O)cc1
+79,NKP-1339,CBK278556G,HSP inhibitor,[Cl-][Ru+3]([N]1=CC2=CC=CC=C2N1)([Cl-])([Cl-])([N]3=CC4=CC=CC=C4N3)[Cl-]
+80,pifithrin-mu,CBK289839,HSP inhibitor,NS(=O)(=O)C#Cc1ccccc1
+81,CCT018159,CBK290181,HSP inhibitor,CCc1cc(-c2n[nH]c(C)c2-c2ccc3c(c2)OCCO3)c(O)cc1O
+82,gedunin,CBK290285,HSP inhibitor,CC(=O)O[C@@H]1C[C@H]2C(C)(C)C(=O)C=C[C@]2(C)[C@H]2CC[C@@]3(C)[C@@H](OC(=O)[C@H]4O[C@@]34[C@]12C)c1ccoc1
+83,SNX-2112,CBK290753,HSP inhibitor,CC1(C)Cc2c(c(nn2-c2ccc(C(N)=O)c(N[C@H]3CC[C@H](O)CC3)c2)C(F)(F)F)C(=O)C1
+84,SNX-5422,CBK290760,HSP inhibitor,CC1(C)Cc2c(c(nn2-c2ccc(C(N)=O)c(N[C@H]3CC[C@@H](CC3)OC(=O)CN)c2)C(F)(F)F)C(=O)C1
+85,AT13387,CBK290799,HSP inhibitor,CC(C)c1cc(C(=O)N2Cc3ccc(CN4CCN(C)CC4)cc3C2)c(O)cc1O
+86,ganetespib,CBK290803,HSP inhibitor,CC(C)c1cc(-c2n[nH]c(=O)n2-c2ccc3n(C)ccc3c2)c(O)cc1O
+87,KW-2478,CBK290810,HSP inhibitor,CCc1c(O)cc(O)c(C(=O)c2ccc(OCCN3CCOCC3)c(OC)c2)c1CC(=O)N(CCOC)CCOC
+88,MKT-077,CBK307768,HSP inhibitor,CCN1\C(=C/c2cccc[n+]2CC)\S\C(=C/3\Sc4ccccc4N3C)\C1=O
+89,EC-144,CBK308232,HSP inhibitor,ClC1=C2C(N(CC3=C(C)C(OC)=C(C)C=N3)C=C2C#CCC(C)(C)O)=NC(N)=N1
+90,retaspimycin,CBK308657,HSP inhibitor,O=C(NC1=C2O)/C(C)=C/C=C\[C@H](OC)[C@H](/C(C)=C/[C@@H]([C@H]([C@H](C[C@@H](CC2=C(C(O)=C1)NCC=C)C)OC)O)C)OC(N)=O
+91,PU-H71,CBK308696,HSP inhibitor,CC(C)NCCCN1C(SC2=C(C=C3OCOC3=C2)I)=NC4=C(N=CN=C14)N
+92,NVP-HSP990,CBK308923,HSP inhibitor,CC1=C2C(C[C@H](C3=C(C4=NC(OC)=CC=C4)C=C(F)C=C3)NC2=O)=NC(N)=N1
+93,XL888,CBK309488,HSP inhibitor,CC[C@@H](C)Nc1cc(C(=O)NC2CC3CCC(C2)N3c2ccc(cn2)C(=O)C2CC2)c(C)cc1C(N)=O
+94,NMS-E973,CBK309522,HSP inhibitor,CN1CCC(CC1)NC(=O)c1cc(on1)-c1c(O)cc(O)cc1Oc1ccc(cc1)[N+]([O-])=O
+95,VER-49009,CBK309545,HSP inhibitor,CCNC(=O)c1[nH]nc(c1-c1ccc(OC)cc1)-c1cc(Cl)c(O)cc1O
+96,ZM-39923,CBK041242,JAK inhibitor,CC(C)N(CCC(=O)C1=CC=C2C=CC=CC2=C1)CC1=CC=CC=C1
+97,ruxolitinib,CBK277968,JAK inhibitor,N#CC[C@H](C1CCCC1)n1cc(cn1)-c1ncnc2[nH]ccc12
+98,LY2784544,CBK278016,JAK inhibitor,Cc1cc(Nc2cc(CN3CCOCC3)c3nc(C)c(Cc4ccc(Cl)cc4F)n3n2)[nH]n1
+99,AZD1480,CBK278050,JAK inhibitor,ClC1=C(N=C(N=C1)N[C@@H](C)C2=NC=C(C=N2)F)NC3=NNC(C)=C3
+100,cyt387,CBK278067,JAK inhibitor,O=C(NCC#N)c1ccc(cc1)-c1ccnc(Nc2ccc(cc2)N2CCOCC2)n1
+101,AZ960,CBK288327,JAK inhibitor,C[C@H](Nc1nc(Nc2cc(C)[nH]n2)c(F)cc1C#N)c1ccc(F)cc1
+102,TG-101209,CBK288347,JAK inhibitor,CN1CCN(CC1)c1ccc(Nc2ncc(C)c(Nc3cccc(c3)S(=O)(=O)NC(C)(C)C)n2)cc1
+103,NVP-BSK805,CBK288351,JAK inhibitor,Fc1cc(cc(F)c1CN1CCOCC1)-c1cccc2ncc(nc12)-c1cnn(c1)C1CCNCC1
+104,JAK3-inhibitor-V,CBK289978,JAK inhibitor,C=CC(C2=CC1=CC=CC=C1C=C2)=O
+105,123456-hexabromocyclohexane,CBK290154,JAK inhibitor,BrC1C(Br)C(Br)C(Br)C(Br)C1Br
+106,baricitinib,CBK290608,JAK inhibitor,CCS(=O)(=O)N1CC(CC#N)(C1)n1cc(cn1)-c1ncnc2[nH]ccc12
+107,curcumol,CBK290717,JAK inhibitor,CC(C)[C@@H]1C[C@@]23O[C@]1(O)CC(=C)[C@@H]2CC[C@@H]3C
+108,CEP-33779,CBK290852,JAK inhibitor,CN1CCN(CC1)c1cccc(Nc2nc3c(cccn3n2)-c2ccc(cc2)S(C)(=O)=O)c1
+109,WHI-P154,CBK290877,JAK inhibitor,COc1cc2ncnc(Nc3ccc(O)c(Br)c3)c2cc1OC
+110,XL019,CBK293875,JAK inhibitor,O=C(Nc1ccc(cc1)-c1ccnc(Nc2ccc(cc2)N2CCOCC2)n1)[C@@H]1CCCN1
+111,filgotinib,CBK293908,JAK inhibitor,O=C(C1CC1)NC2=NN3C(C4=CC=C(CN5CCS(CC5)(=O)=O)C=C4)=CC=CC3=N2
+112,decernotinib,CBK303909,JAK inhibitor,C[C@](C(NCC(F)(F)F)=O)(CC)NC1=NC(C2=CNC3=NC=CC=C32)=NC=C1
+113,TCS-21311,CBK308126,JAK inhibitor,O=C(N1)C(C3=CNC4=C3C=CC=C4)=C(C2=C(C(F)(F)F)C=CC(N5CCN(C(C(O)(C)C)=O)CC5)=C2)C1=O
+114,solcitinib,CBK309059,JAK inhibitor,O=C(C1CC1)NC2=NN3C(C4=CC=C(C(N5CC(C)(C)C5)=O)C=C4)=CC=CC3=N2
+115,itacitinib,CBK309070,JAK inhibitor,N#CCC1(N2N=CC(C3=C4C(NC=C4)=NC=N3)=C2)CN(C5CCN(C(C6=C(F)C(C(F)(F)F)=NC=C6)=O)CC5)C1
+116,NS-018,CBK309133,JAK inhibitor,CN1N=CC(C2=CC(N[C@H](C3=CC=C(F)C=C3)C)=NC(NC4=NC=CN=C4)=C2)=C1
+117,3-amino-benzamide,CBK041804,PARP inhibitor,NC(=O)c1cccc(N)c1
+118,veliparib,CBK277926,PARP inhibitor,C[C@]1(CCCN1)c1nc2c(cccc2[nH]1)C(N)=O
+119,rucaparib,CBK277950,PARP inhibitor,CNCc1ccc(cc1)-c1[nH]c2cc(F)cc3C(=O)NCCc1c23
+120,iniparib,CBK277970,PARP inhibitor,NC(=O)c1ccc(I)c(c1)[N+]([O-])=O
+121,niraparib,CBK278031,PARP inhibitor,NC(C1=CC=CC2=CN(C3=CC=C([C@H]4CNCCC4)C=C3)N=C21)=O
+122,4-HQN,CBK278729,PARP inhibitor,OC1=C2C=CC=CC2=NC=N1
+123,endo-IWR-1,CBK289918H,PARP inhibitor,[H][C@]13[C@](C(N(C4=CC=C(C(NC5=CC=CC6=C5N=CC=C6)=O)C=C4)C3=O)=O)([H])[C@H]2C=C[C@@H]1C2.[H][C@@]79[C@@](C(N(C%10=CC=C(C(NC%11=CC=CC%12=C%11N=CC=C%12)=O)C=C%10)C9=O)=O)([H])[C@@H]8C=C[C@H]7C8
+124,NU-1025,CBK289987,PARP inhibitor,CC1=NC2=C(O)C=CC=C2C(=O)N1
+125,DR-2313,CBK290205,PARP inhibitor,Cc1nc(=O)c2c([nH]1)CCSC2
+126,BYK-204165,CBK290351,PARP inhibitor,O=C(NC3=O)C1=CC=CC=C1/C3=C/C2=CC=CN2C
+127,UPF-1069,CBK290352,PARP inhibitor,O=C2NC=CC1=C(OCC(C3=CC=CC=C3)=O)C=CC=C12
+128,AG-14361,CBK290655,PARP inhibitor,CN(C)Cc1ccc(cc1)-c1nc2cccc3C(=O)NCCn1c23
+129,hypoxanthine,CBK290883,PARP inhibitor,O=c1[nH]cnc2nc[nH]c12
+130,AZD2461,CBK290993,PARP inhibitor,COC1CCN(CC1)C(=O)c1cc(Cc2n[nH]c(=O)c3ccccc23)ccc1F
+131,EB-47,CBK308108,PARP inhibitor,O=C(NC2=CC=CC3=C2CNC3=O)CN(CC1)CCN1[C@]([C@@H]4O[C@H](N5C=NC6=C5N=CN=C6N)[C@@H](O)[C@H]4O)=O
+132,ME0328,CBK308321,PARP inhibitor,CC(NC(=O)CCc1nc(=O)c2ccccc2[nH]1)c1ccccc1
+133,E7449,CBK308723,PARP inhibitor,O=C1NNC2=C3C1=CC=CC3=NC(CN4CC5=C(C=CC=C5)C4)=N2
+134,PJ-34,CBK308811,PARP inhibitor,O=C(NC(C=C1C2=C3C=CC=C2)=CC=C1NC3=O)CN(C)C
+135,AC-55541,CBK308846,PARP inhibitor,O=C(NC(C(C1=CC=CC=C12)=NNC2=O)C(N/N=C(C)/C3=CC=CC(Br)=C3)=O)C4=CC=CC=C4
+136,S-111,CBK309255,PARP inhibitor,C[C@]([C@@](C[C@H]1O)([H])[C@]2(CC[C@@H]3O)C)(CC[C@@]2([H])C3(C)C)[C@]4([C@@]1([H])[C@]([C@@](C)(O)CC/C=C(C)/C)([H])CC4)C
+137,talazoparib,CBK309483,PARP inhibitor,Cn1ncnc1[C@@H]1[C@H](Nc2cc(F)cc3c2c1n[nH]c3=O)c1ccc(F)cc1
+138,homoharringtonine,CBK041256,protein synthesis inhibitor,O=C([C@](CCCC(O)(C)C)(O)CC(OC)=O)O[C@@H]1C(OC)=C[C@@](N(CCC5)CCC2=CC4=C(OCO4)C=C23)5[C@]31[H]
+139,methacycline,CBK041519,protein synthesis inhibitor,CN(C)[C@H]1[C@@H]2[C@@H](O)[C@H]3C(C(=O)c4c(O)cccc4C3=C)C(=O)[C@]2(O)C(=O)C(C(N)=O)C1=O
+140,cycloheximide,CBK041619,protein synthesis inhibitor,C[C@H]1C[C@H](C)C(=O)[C@@H](C1)[C@H](O)CC1CC(=O)NC(=O)C1
+141,clofoctol,CBK041675,protein synthesis inhibitor,CC(C)(C)CC(C)(C)c1ccc(O)c(Cc2ccc(Cl)cc2Cl)c1
+142,emetine,CBK042154,protein synthesis inhibitor,CC[C@H]1CN2CCc3cc(OC)c(OC)cc3C2C[C@@H]1CC1NCCc2cc(OC)c(OC)cc12
+143,florfenicol,CBK200838,protein synthesis inhibitor,CS(=O)(=O)c1ccc(cc1)C(O)[C@H](CF)NC(=O)C(Cl)Cl
+144,diloxanide,CBK200860,protein synthesis inhibitor,CN(C(=O)C(Cl)Cl)c1ccc(OC(=O)c2ccco2)cc1
+145,viomycin,CBK200927,protein synthesis inhibitor,NCCC[C@H](N)CC(=O)N[C@H]1CNC(=O)[C@@H](NC(=O)\C(NC(=O)[C@H](CO)NC(=O)[C@H](CO)NC1=O)=C\NC(N)=O)C1C[C@H](O)N=C(N)N1
+146,etretinate,CBK201029,protein synthesis inhibitor,O=C(OCC)/C=C(C)/C=C/C=C(C)/C=C/C1=C(C)C=C(OC)C(C)=C1C
+147,azomycin-(2-nitroimidazole),CBK290848,protein synthesis inhibitor,O=[N+]([O-])c1ncc[nH]1
+148,chloramphenicol-palmitate,CBK307772,protein synthesis inhibitor,CCCCCCCCCCCCCCCC(=O)OC[C@H](NC(=O)C(Cl)Cl)[C@H](O)c1ccc(cc1)[N+]([O-])=O
+149,chloramphenicol-sodium-succinate,CBK307773,protein synthesis inhibitor,O[C@@H]([C@@H](COC(=O)CCC(O)=O)NC(=O)C(Cl)Cl)c1ccc(cc1)[N+]([O-])=O
+150,micronomicin,CBK307956,protein synthesis inhibitor,CNC[C@@H]1CC[C@@H](N)[C@@H](O[C@@H]2[C@@H](N)C[C@@H](N)[C@H](O[C@H]3OC[C@](C)(O)[C@H](NC)[C@H]3O)[C@H]2O)O1
+151,midecamycin,CBK308519,protein synthesis inhibitor,CCC(=O)O[C@H]1[C@H](C)O[C@H](C[C@@]1(C)O)O[C@@H]1[C@@H](C)O[C@@H](O[C@H]2[C@@H](CC=O)C[C@@H](C)[C@@H](O)\C=C\C=C\C[C@@H](C)OC(=O)C[C@@H](OC(=O)CC)[C@@H]2OC)[C@H](O)[C@H]1N(C)C
+152,isepamicin,CBK308608,protein synthesis inhibitor,CN[C@@H]1[C@@H](O)[C@@H](O[C@H]2[C@@H](C[C@H](N)[C@@H](O[C@H]3O[C@H](CN)[C@@H](O)[C@H](O)[C@H]3O)[C@@H]2O)NC(=O)[C@@H](O)CN)OC[C@]1(C)O
+153,tedizolid-phosphate,CBK308887,protein synthesis inhibitor,O=C1O[C@@H](COP(O)(O)=O)CN1C2=CC=C(C3=CC=C(C4=NN(C)N=N4)N=C3)C(F)=C2
+154,capreomycin,CBK309090,protein synthesis inhibitor,O=C(CC(N)CCCN)NCC(C(N/C(C(NC(C1NC(NCC1)=N)C2=O)=O)=C/NC(N)=O)=O)NC(C(NC(C(CN2)N)=O)C)=OO
+155,solithromycin,CBK309098,protein synthesis inhibitor,C[C@]([C@H](OC([C@@](F)(C([C@H](C)[C@H]1O[C@@](O[C@H](C)C[C@@H]2N(C)C)([H])[C@@H]2O)=O)C)=O)CC)(O3)[C@]([C@H](C([C@@H](C[C@@]1(C)OC)C)=O)C)([H])N(CCCCN4C=C(C5=CC(N)=CC=C5)N=N4)C3=O
+156,bruceantin,CBK309258,protein synthesis inhibitor,O=C([C@@]1([C@H]([C@H](O)[C@]2([H])[C@]3(C4)C)O)[C@@]([C@H](C5=O)OC(/C=C(C)/C(C)C)=O)([H])[C@@]2([C@@](O5)([H])C[C@@]3([H])C(C)=C(O)C4=O)CO1)OC
+157,harringtonine,CBK309349,protein synthesis inhibitor,COC(=O)C[C@@](O)(CCC(C)(C)O)C(=O)O[C@H]1[C@@H]2c3cc4OCOc4cc3CCN3CCC[C@]23C=C1OC
+158,4EGI-1,CBK309537,protein synthesis inhibitor,OC(=O)C(\Cc1ccccc1[N+]([O-])=O)=N\Nc1nc(cs1)-c1ccc(Cl)c(Cl)c1
+159,4E1RCat,CBK309538,protein synthesis inhibitor,OC(=O)c1ccc(cc1)N1C(=O)C(\C=C1c1ccccc1)=C\c1ccc(o1)-c1ccc(cc1)[N+]([O-])=O
+160,rosamicin,CBK309601,protein synthesis inhibitor,CCC1OC(=O)CC(O)C(C)C(OC2OC(C)CC(C2O)N(C)C)C(CC=O)CC(C)C(=O)\C=C\C2(C)OC2C1C
+161,isotretinoin,CBK011613,retinoid receptor agonist,CC(/C=C/C1=C(C)CCCC1(C)C)=C\C=C\C(C)=C/C(O)=O
+162,AM-580,CBK041003,retinoid receptor agonist,CC1(C)CCC(C)(C)c2cc(ccc12)C(=O)Nc1ccc(cc1)C(O)=O
+163,acitretin,CBK200601,retinoid receptor agonist,COc1cc(C)c(\C=C\C(C)=C\C=C\C(C)=C\C(O)=O)c(C)c1C
+164,AC-55649,CBK271643,retinoid receptor agonist,CCCCCCCCc1ccc(-c2ccc(C(=O)O)cc2)cc1
+165,bexarotene,CBK277913,retinoid receptor agonist,Cc1cc2c(cc1C(=C)c1ccc(cc1)C(O)=O)C(C)(C)CCC2(C)C
+166,adapalene,CBK289882,retinoid receptor agonist,COc1ccc(cc1C12CC3CC(CC(C3)C1)C2)-c1ccc2cc(ccc2c1)C(O)=O
+167,CD-437,CBK290012,retinoid receptor agonist,O=C(O)c1ccc2cc(-c3ccc(O)c(C45CC6CC(CC(C6)C4)C5)c3)ccc2c1
+168,LE-135,CBK290101,retinoid receptor agonist,CN1C2=C(C=C3C(=C2)C(C)(C)CCC3(C)C)N=C(C2=CC=C(C=C2)C(O)=O)C2=C1C=CC=C2
+169,CD-1530,CBK290217,retinoid receptor agonist,O=C(O)c1ccc(-c2ccc3cc(C45CC6CC(CC(C6)C4)C5)c(O)cc3c2)cc1
+170,BMS-649,CBK290287,retinoid receptor agonist,CC1(C)C2=C(C=CC(C4(OCCO4)C3=CC=C(C(O)=O)C=C3)=C2)C(C)(C)CC1
+171,tazarotene,CBK290588,retinoid receptor agonist,CCOC(=O)c1ccc(nc1)C#Cc1ccc2SCCC(C)(C)c2c1
+172,EC-23,CBK308090,retinoid receptor agonist,CC1(C)C2=C(C=CC(C#CC3=CC=C(C(O)=O)C=C3)=C2)C(C)(C)CC1
+173,AC-261066,CBK308097,retinoid receptor agonist,CC1=C(OCCOCCCC)N=C(C2=CC=C(C(O)=O)C(F)=C2)S1
+174,SR-1078,CBK308276,retinoid receptor agonist,OC(C(F)(F)F)(C(F)(F)F)C(C=C1)=CC=C1NC(C2=CC=C(C(F)(F)F)C=C2)=O
+175,peretinoin,CBK308631,retinoid receptor agonist,C/C(C)=C/CC/C(C)=C/CC/C(C)=C/C=C/C(C)=C/C(O)=O
+176,palovarotene,CBK308876,retinoid receptor agonist,O=C(O)C1=CC=C(/C=C/C2=C(CN3N=CC=C3)C=C4C(C)(C)CCC(C)(C)C4=C2)C=C1
+177,adarotene,CBK308880,retinoid receptor agonist,O=C(O)/C=C/C1=CC=C(C2=CC=C(O)C(C3(C4)CC5CC4CC(C5)C3)=C2)C=C1
+178,AGN-195183,CBK309049,retinoid receptor agonist,O=C(O)C1=C(F)C=C(NC(C2=C(O)C(Cl)=C3C(C)(C)CCC(C)(C)C3=C2)=O)C=C1F
+179,tamibarotene,CBK309466,retinoid receptor agonist,CC1(C)CCC(C)(C)c2cc(NC(=O)c3ccc(cc3)C(O)=O)ccc12
+180,cinoxacin,CBK017131,topoisomerase inhibitor,CCn1nc(C(O)=O)c(=O)c2cc3OCOc3cc12
+181,etoposide,CBK041182,topoisomerase inhibitor,O=C1OC[C@]2([H])[C@H](O[C@H]3[C@@H]([C@H]([C@@H]4O[C@H](C)OC[C@H]4O3)O)O)C5=C(C=C6OCOC6=C5)[C@@H](C7=CC(OC)=C(O)C(OC)=C7)[C@]21[H]
+182,flumequine,CBK041506,topoisomerase inhibitor,CC1CCc2cc(F)cc3c2n1cc(C(O)=O)c3=O
+183,pipemidic-acid,CBK041585,topoisomerase inhibitor,CCn1cc(C(O)=O)c(=O)c2cnc(nc12)N1CCNCC1
+184,enoxacin,CBK041678,topoisomerase inhibitor,CCn1cc(C(O)=O)c(=O)c2cc(F)c(nc12)N1CCNCC1
+185,camptothecin,CBK041770,topoisomerase inhibitor,O=C4C5=C([C@](CC)(O)C(OC5)=O)C=C3C2=NC1=CC=CC=C1C=C2CN34
+186,mitoxantrone,CBK042178,topoisomerase inhibitor,OCCNCCNc1ccc(NCCNCCO)c2C(=O)c3c(O)ccc(O)c3C(=O)c12
+187,doxorubicin,CBK200558,topoisomerase inhibitor,OC1=C(C[C@]([C@](CO)=O)(O)C[C@@H]4O[C@@]5([H])C[C@H](N)[C@H](O)[C@H](C)O5)C4=C(O)C3=C1C(C2=CC=CC(OC)=C2C3=O)=O
+188,topotecan,CBK200593,topoisomerase inhibitor,O=C1[C@](O)(CC)C2=C(CO1)C(N3CC4=CC5=C(CN(C)C)C(O)=CC=C5N=C4C3=C2)=O
+189,irinotecan,CBK200949,topoisomerase inhibitor,CCc1c2c(nc3ccc(OC(=O)N4CCC(N5CCCCC5)CC4)cc13)-c1cc3c(c(=O)n1C2)COC(=O)[C@]3(O)CC
+190,fleroxacin,CBK201030,topoisomerase inhibitor,CN1CCN(CC1)c1c(F)cc2c(c1F)n(CCF)cc(C(O)=O)c2=O
+191,idarubicin,CBK277909,topoisomerase inhibitor,C[C@@H]1O[C@H](C[C@H](N)[C@@H]1O)O[C@H]1C[C@@](O)(Cc2c(O)c3C(=O)c4ccccc4C(=O)c3c(O)c12)C(C)=O
+192,teniposide,CBK278004,topoisomerase inhibitor,COc1cc(cc(OC)c1O)[C@H]1[C@@H]2C(COC2=O)C(O[C@@H]2O[C@@H]3CO[C@H](OC3[C@H](O)[C@H]2O)c2cccs2)c2cc3OCOc3cc12
+193,beta-lapachone,CBK289760,topoisomerase inhibitor,O=C(C1=C2OC(C)(C)CC1)C(C3=C2C=CC=C3)=O
+194,SN-38,CBK290251,topoisomerase inhibitor,CCc1c2c(nc3ccc(O)cc13)-c1cc3c(c(=O)n1C2)COC(=O)[C@]3(O)CC
+195,amonafide,CBK290529,topoisomerase inhibitor,CN(C)CCN1C(=O)c2cccc3cc(N)cc(C1=O)c23
+196,pirarubicin,CBK290538,topoisomerase inhibitor,COc1cccc2C(=O)c3c(O)c4C[C@](O)(C[C@H](O[C@H]5C[C@H](N)[C@H](O[C@@H]6CCCCO6)[C@H](C)O5)c4c(O)c3C(=O)c12)C(=O)CO
+197,10-hydroxycamptothecin,CBK290683,topoisomerase inhibitor,CC[C@@]1(O)C(=O)OCc2c1cc1-c3nc4ccc(O)cc4cc3Cn1c2=O
+198,pixantrone,CBK303985,topoisomerase inhibitor,O=C(O)/C=C\C(O)=O.O=C(O)/C=C\C(O)=O.O=C(C1=C(NCCN)C=CC(NCCN)=C12)C3=C(C=NC=C3)C2=O
+199,pazufloxacin,CBK307798,topoisomerase inhibitor,C[C@H]1COc2c(c(F)cc3c2n1cc(C(O)=O)c3=O)C1(N)CC1
+200,amsacrine,CBK307816,topoisomerase inhibitor,COc1cc(NS(C)(=O)=O)ccc1Nc1c2ccccc2nc2ccccc12
+201,merbarone,CBK308173,topoisomerase inhibitor,O=C(Nc1ccccc1)C1C(=O)NC(=S)NC1=O
+202,exatecan-mesylate,CBK308484,topoisomerase inhibitor,CC[C@@]1(O)C(=O)OCC2=C1C=C3N(Cc4c5[C@@H](N)CCc6c(C)c(F)cc(nc34)c56)C2=O.CS(=O)(=O)O
+203,etoposide-phosphate,CBK308613,topoisomerase inhibitor,COc1cc(cc(OC)c1OP(O)(O)=O)[C@H]1[C@@H]2[C@H](COC2=O)[C@H](O[C@@H]2O[C@@H]3CO[C@@H](C)O[C@H]3[C@H](O)[C@H]2O)c2cc3OCOc3cc12
+204,TAS-103,CBK308819,topoisomerase inhibitor,O=C(C1=C2C3=CC=C(O)C=C3N=C1NCCN(C)C)C4=C2C=CC=C4
+205,genz-644282,CBK309020,topoisomerase inhibitor,O=C1N(CCNC)C2=C(C=NC(C2=C3)=CC4=C3OCO4)C5=CC(OC)=C(OC)C=C15
+206,aldoxorubicin,CBK309021,topoisomerase inhibitor,[H][C@@]1(O[C@H]2C[C@@](/C(CO)=N/NC(CCCCCN3C(C=CC3=O)=O)=O)(O)CC(C2=C4O)=C(O)C5=C4C(C6=C(OC)C=CC=C6C5=O)=O)O[C@@H](C)[C@@H](O)[C@@H](N)C1
+207,voreloxin,CBK309040,topoisomerase inhibitor,O=C(C1=CN(C2=NC=CS2)C3=C(C=CC(N4C[C@H](OC)[C@@H](NC)C4)=N3)C1=O)O
+208,garenoxacin,CBK309084,topoisomerase inhibitor,O=C(C1=CN(C2CC2)C3=C(C=CC(C4=CC5=C([C@@H](C)NC5)C=C4)=C3OC(F)F)C1=O)O
+209,nemorubicin,CBK309265,topoisomerase inhibitor,CO[C@@H]1CN(CCO1)[C@H]1C[C@H](O[C@H]2C[C@@](O)(Cc3c(O)c4C(=O)c5cccc(OC)c5C(=O)c4c(O)c23)C(=O)CO)O[C@@H](C)[C@H]1O
+210,rosoxacin,CBK309639,topoisomerase inhibitor,CCn1cc(C(=O)O)c(=O)c2ccc(-c3ccncc3)cc21
+211,amrubicin,CBK309655,topoisomerase inhibitor,CC(=O)C1(N)C[C@H](O[C@H]2C[C@H](O)[C@H](O)CO2)c3c(O)c4C(=O)c5ccccc5C(=O)c4c(O)c3C1
+212,mebendazole,CBK016139,tubulin polymerization inhibitor,COC(=O)Nc1nc2ccc(cc2[nH]1)C(=O)c1ccccc1
+213,nocodazole,CBK041184,tubulin polymerization inhibitor,COC(=O)NC1=NC2=CC(=CC=C2N1)C(=O)C1=CC=CS1
+214,fenbendazole,CBK041516,tubulin polymerization inhibitor,COC(=O)Nc1nc2ccc(Sc3ccccc3)cc2[nH]1
+215,oxibendazole,CBK041720,tubulin polymerization inhibitor,CCCOc1ccc2nc(NC(=O)OC)[nH]c2c1
+216,albendazole,CBK041761,tubulin polymerization inhibitor,CCCSc1ccc2[nH]c(NC(=O)OC)nc2c1
+217,parbendazole,CBK200898,tubulin polymerization inhibitor,CCCCc1ccc2[nH]c(NC(=O)OC)nc2c1
+218,catharanthine,CBK200945,tubulin polymerization inhibitor,CCC1=C[C@@H]2CN3CCc4c([nH]c5ccccc45)[C@@](C2)([C@@H]13)C(=O)OC
+219,flubendazole,CBK201032,tubulin polymerization inhibitor,COC(=O)Nc1nc2cc(ccc2[nH]1)C(=O)c1ccc(F)cc1
+220,ABT-751,CBK277937,tubulin polymerization inhibitor,COc1ccc(cc1)S(=O)(=O)Nc1cccnc1Nc1ccc(O)cc1
+221,indibulin,CBK277969,tubulin polymerization inhibitor,Clc1ccc(Cn2cc(C(=O)C(=O)Nc3ccncc3)c4ccccc24)cc1
+222,vinorelbine,CBK278120,tubulin polymerization inhibitor,CC[C@@]1(C=CCN2CC3)[C@@]2([H])[C@@]3(C(C=C([C@@](C4=C5C(C=CC=C6)=C6N4)(CC(C=C(CC)C7)([H])CN7C5)C(OC)=O)C(OC)=C8)=C8N9C)[C@]9([H])[C@](C(OC)=O)(O)[C@@H]1OC(C)=O.O=C(O)[C@H](O)[C@@H](O)C(O)=O.O=C(O)[C@H ](O)[C@@H](O)C(O)=O
+223,plinabulin,CBK290493,tubulin polymerization inhibitor,CC(C)(C)C1=C(N=CN1)/C=C\2/C(=O)N/C(=C\C3=CC=CC=C3)/C(=O)N2
+224,dimesna,CBK291076,tubulin polymerization inhibitor,OS(=O)(=O)CCSSCCS(O)(=O)=O
+225,combretastatin-A-4,CBK307747,tubulin polymerization inhibitor,COc1ccc(\C=C/c2cc(OC)c(OC)c(OC)c2)cc1O
+226,vindesine,CBK307964,tubulin polymerization inhibitor,CC[C@]1(O)C[C@H]2CN(C1)CCc1c([nH]c3ccccc13)[C@@](C2)(C(=O)OC)c1cc2c(cc1OC)N(C)[C@@H]1[C@]22CCN3CC=C[C@](CC)([C@@H]23)[C@@H](O)[C@]1(O)C(N)=O
+227,verubulin,CBK308359,tubulin polymerization inhibitor,CC2=NC1=CC=CC=C1C(N(C)C3=CC=C(OC)C=C3)=N2
+228,taltobulin,CBK308966,tubulin polymerization inhibitor,CC(C)(C)[C@H](NC([C@H](C(C)(C1=CC=CC=C1)C)NC)=O)C(N([C@@H](C(C)C)/C=C(C(O)=O)\C)C)=O
+229,BNC105,CBK309016,tubulin polymerization inhibitor,COC1=CC(C(C2=C(C)OC3=C(O)C(OC)=CC=C23)=O)=CC(OC)=C1OC
+230,dolastatin-10,CBK309391,tubulin polymerization inhibitor,CC[C@H](C)[C@@H]([C@@H](CC(=O)N1CCC[C@H]1[C@H](OC)[C@@H](C)C(=O)N[C@@H](Cc2ccccc2)c3nccs3)OC)N(C)C(=O)[C@@H](NC(=O)[C@H](C(C)C)N(C)C)C(C)C
+231,CYT-997,CBK309437,tubulin polymerization inhibitor,CCC[C@H](Nc1nc(ncc1C)-c1ccc(NC(=O)NCC)c(OC)c1)c1cccnc1
