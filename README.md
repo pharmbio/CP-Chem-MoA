@@ -47,6 +47,7 @@ Folder name: [Cell_morphology_based_model_and_global_model](Cell_morphology_base
 
 ### Citation
 Please cite:
-> Combining molecular and cell painting image data for mechanism of action prediction          
-> Guangyan Tian, Philip J Harrison, Akshai P Sreenivasan, Jordi Carreras Puigvert, Ola Spjuth.
-> Status: Submitted
+> Guangyan Tian, Philip J Harrison, Akshai P Sreenivasan, Jordi Carreras-Puigvert, Ola Spjuth,
+> Combining molecular and cell painting image data for mechanism of action prediction,
+> Artificial Intelligence in the Life Sciences, Volume 3, 2023, 100060,ISSN 2667-3185, https://doi.org/10.1016/j.ailsci.2023.100060.
+> Status: Published
